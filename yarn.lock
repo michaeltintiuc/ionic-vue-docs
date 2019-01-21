@@ -673,10 +673,10 @@
   dependencies:
     ionicons "4.5.1"
 
-"@modus/ionic-vue@^1.2.1":
-  version "1.2.1"
-  resolved "https://registry.yarnpkg.com/@modus/ionic-vue/-/ionic-vue-1.2.1.tgz#8eb9f67b19441af8182e18d038c7fbb9d04d2f66"
-  integrity sha512-vCHV4gUBxlBYl+laEdSM7c2jyzhcaeVXQn3kBDy6cpwSl/B9fqOiE3LyfvB0ucHB5pWlAxPbgswOlPcj/wjn2A==
+"@modus/ionic-vue@^1.2.2":
+  version "1.2.2"
+  resolved "https://registry.yarnpkg.com/@modus/ionic-vue/-/ionic-vue-1.2.2.tgz#9e4dec44a37b63d187ea47892f4920288813714f"
+  integrity sha512-Xd80bo22yQo1O50TzG9RyZ1YQRu5Fqh1LTa5K88JuOXhcDnJ+Xp4NetP/SDd4WDRZYVsELijvTvjgOW6e+WY6Q==
   dependencies:
     vue-class-component "^6.2.0"
     vue-property-decorator "^7.2.0"
